@@ -48,11 +48,12 @@ Progressive Web Apps <img align="left" alt="PWA" width="32px" src="https://api.i
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)<br>
 - ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 16th, 2026, 2:49:40 AM
+Last Updated: Wednesday, March 18th, 2026, 10:07:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contributions
