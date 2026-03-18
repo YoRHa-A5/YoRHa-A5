@@ -41,9 +41,9 @@ Progressive Web Apps <img align="left" alt="PWA" width="32px" src="https://api.i
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=a2-nier&count_private=true&show_icons=true&hide=stars&PAT_1)
+![Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=a2-nier&PAT_1)
+![Top Languages](./profile/top-langs.svg)
 
 ## Recent activity
 
