@@ -9,7 +9,7 @@
 
 HTML <img align="left" alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS" width="32px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" style="padding-right:10px;" /><br />
+CSS <img align="left" alt="CSS" width="32px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" style="padding-right:10px;" /><br />
 
 JavaScript <img align="left" alt="Javascript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
@@ -19,7 +19,7 @@ Qwik <img align="left" alt="Qwik" width="32px" src="https://cdn.jsdelivr.net/gh/
 
 Svelte <img align="left" alt="Svelte" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Go" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:6px;" /><br />
+GO <img align="left" alt="Go" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:6px;" /><br />
 
 React <img align="left" alt="React" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"  />
 
