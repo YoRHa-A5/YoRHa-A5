@@ -17,7 +17,7 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 
 ![Top Languages](./profile/top-langs.svg)
 
-## Contributions to projects
+### Contributions to projects
 
 - [Qwik](https://github.com/QwikDev/qwik/pull/7211) – Frontend Framework
 - [DiscordGo](https://github.com/bwmarrin/discordgo/pull/1262) – Discord API Go Library
@@ -25,7 +25,7 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 - [Denon](https://github.com/denosaurs/denon/pull/96) – Nodemon equivalent for Deno
 - [Recent Activity](https://github.com/Readme-Workflows/recent-activity/pull/272) – Profile readme activities
 
-## Recent activity
+### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [calesthio/Crucix](https://github.com/calesthio/Crucix)<br>
