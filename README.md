@@ -30,9 +30,8 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [calesthio/Crucix](https://github.com/calesthio/Crucix)<br>
 - ⭐ Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)<br>
-- ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 19th, 2026, 2:40:21 AM
+Last Updated: Friday, March 20th, 2026, 2:31:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
