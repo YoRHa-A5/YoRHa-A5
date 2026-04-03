@@ -28,11 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)<br>
+- ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
+- ⭐ Starred [iamfakeguru/claude-md](https://github.com/iamfakeguru/claude-md)<br>
 - ⭐ Starred [YoRHa-A5/531](https://github.com/YoRHa-A5/531)<br>
 - ⭐ Starred [calesthio/Crucix](https://github.com/calesthio/Crucix)<br>
-- ⭐ Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 2nd, 2026, 2:42:54 AM
+Last Updated: Friday, April 3rd, 2026, 2:45:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
