@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)<br>
+- ⭐ Starred [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway)<br>
+- ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
+- ⭐ Starred [averygan/reclip](https://github.com/averygan/reclip)<br>
 - ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)<br>
-- ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
-- ⭐ Starred [iamfakeguru/claude-md](https://github.com/iamfakeguru/claude-md)<br>
-- ⭐ Starred [YoRHa-A5/531](https://github.com/YoRHa-A5/531)<br>
-- ⭐ Starred [calesthio/Crucix](https://github.com/calesthio/Crucix)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 5th, 2026, 2:53:40 AM
+Last Updated: Monday, April 6th, 2026, 2:55:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
