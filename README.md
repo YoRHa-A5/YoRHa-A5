@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)<br>
+- ⭐ Starred [getcompanion-ai/feynman](https://github.com/getcompanion-ai/feynman)<br>
+- ⭐ Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)<br>
 - ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)<br>
 - ⭐ Starred [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway)<br>
-- ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
-- ⭐ Starred [averygan/reclip](https://github.com/averygan/reclip)<br>
-- ⭐ Starred [blader/humanizer](https://github.com/blader/humanizer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 6th, 2026, 2:55:00 AM
+Last Updated: Tuesday, April 7th, 2026, 2:48:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
