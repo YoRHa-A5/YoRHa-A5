@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- 🔱 Forked [YoRHa-A5/hermes-agent](https://github.com/YoRHa-A5/hermes-agent) from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 - ⭐ Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)<br>
 - ⭐ Starred [getcompanion-ai/feynman](https://github.com/getcompanion-ai/feynman)<br>
 - ⭐ Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)<br>
 - ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)<br>
-- ⭐ Starred [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 11th, 2026, 2:40:34 AM
+Last Updated: Sunday, April 12th, 2026, 3:18:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
