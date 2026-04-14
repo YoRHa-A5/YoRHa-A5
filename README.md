@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
+- ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
+- ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
 - ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
 - 🔱 Forked [YoRHa-A5/hermes-agent](https://github.com/YoRHa-A5/hermes-agent) from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-- ⭐ Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)<br>
-- ⭐ Starred [getcompanion-ai/feynman](https://github.com/getcompanion-ai/feynman)<br>
-- ⭐ Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 13th, 2026, 3:25:13 AM
+Last Updated: Tuesday, April 14th, 2026, 2:56:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
