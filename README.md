@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)<br>
-- ⭐ Starred [mayukh4/linux-android](https://github.com/mayukh4/linux-android)<br>
-- ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
-- ⭐ Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)<br>
-- ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+- ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+- ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
+- ⭐ Starred [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)<br>
+- ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
+- ⭐ Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 19th, 2026, 3:23:18 AM
+Last Updated: Monday, April 20th, 2026, 3:25:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
