@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng)<br>
 - ⭐ Starred [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)<br>
 - ⭐ Starred [BryanLunduke/DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify)<br>
 - ⭐ Starred [kucherenko/jscpd](https://github.com/kucherenko/jscpd)<br>
 - ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-- ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 25th, 2026, 2:50:47 AM
+Last Updated: Sunday, April 26th, 2026, 3:28:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
