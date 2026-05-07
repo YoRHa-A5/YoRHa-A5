@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)<br>
 - ↪ Opened PR [#3](undefined) in [YoRHa-A5/Doro](https://github.com/YoRHa-A5/Doro)<br>
 - ⭐ Starred [google-research/timesfm](https://github.com/google-research/timesfm)<br>
 - ↪ Opened PR [#2](undefined) in [YoRHa-A5/Doro](https://github.com/YoRHa-A5/Doro)<br>
 - ↪ Opened PR [#1](undefined) in [YoRHa-A5/Doro](https://github.com/YoRHa-A5/Doro)<br>
-- ⭐ Starred [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 6th, 2026, 3:35:56 AM
+Last Updated: Thursday, May 7th, 2026, 3:35:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
