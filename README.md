@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [cocktailpeanut/hermes-mod](https://github.com/cocktailpeanut/hermes-mod)<br>
 - ⭐ Starred [Forceu/Gokapi](https://github.com/Forceu/Gokapi)<br>
 - ⭐ Starred [antirez/ds4](https://github.com/antirez/ds4)<br>
 - ❌ Closed PR [#2640](undefined) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
 - ⭐ Starred [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)<br>
-- ↪ Opened PR [#3](undefined) in [YoRHa-A5/Doro](https://github.com/YoRHa-A5/Doro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 14th, 2026, 3:48:57 AM
+Last Updated: Friday, May 15th, 2026, 3:52:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
