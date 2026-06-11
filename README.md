@@ -28,13 +28,13 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [tale/headplane](https://github.com/tale/headplane)<br>
 - ⭐ Starred [everywall/ladder](https://github.com/everywall/ladder)<br>
 - 🔱 Forked [YoRHa-A5/deepseek-spark](https://github.com/YoRHa-A5/deepseek-spark) from [0xSero/deepseek-spark](https://github.com/0xSero/deepseek-spark)<br>
 - ⭐ Starred [cocktailpeanut/hermes-mod](https://github.com/cocktailpeanut/hermes-mod)<br>
 - ⭐ Starred [Forceu/Gokapi](https://github.com/Forceu/Gokapi)<br>
-- ⭐ Starred [antirez/ds4](https://github.com/antirez/ds4)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 10th, 2026, 4:07:45 AM
+Last Updated: Thursday, June 11th, 2026, 4:20:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
