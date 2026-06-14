@@ -30,9 +30,8 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [tale/headplane](https://github.com/tale/headplane)<br>
 - ⭐ Starred [everywall/ladder](https://github.com/everywall/ladder)<br>
-- ⭐ Starred [cocktailpeanut/hermes-mod](https://github.com/cocktailpeanut/hermes-mod)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 13th, 2026, 4:12:01 AM
+Last Updated: Sunday, June 14th, 2026, 4:39:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
