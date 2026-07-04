@@ -29,9 +29,8 @@ Among my own projects, my favorite one is the [Red Dead Online Discord Bot](http
 
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [tale/headplane](https://github.com/tale/headplane)<br>
-- ⭐ Starred [everywall/ladder](https://github.com/everywall/ladder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 3rd, 2026, 3:39:36 AM
+Last Updated: Saturday, July 4th, 2026, 3:33:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
